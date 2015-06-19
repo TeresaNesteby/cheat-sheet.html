@@ -12,9 +12,18 @@ h1 {
 h3 {
     text-decoration:underline;
     font-size:30px;
+    padding-left: 30px;
 
 }
-
+dt {
+    padding-left: 20px;
+    font-size: 22px;
+}
+dd {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+}
 
 
 body {
@@ -27,6 +36,7 @@ img.align-center {
     margin: 0px auto;
 }
 img {
-    height:250px;
-    width:250px;
+    height:auto;
+    width:600px;
+    padding-top: 15px;
 }
